@@ -1,0 +1,7 @@
+A poor man's implementation to fetch news from RSS feeds using sfeed_update,
+process the news data from a JSON file, and generate an HTML file containing
+the news links.
+
+Dependencies:
+- sfeed: https://codemadness.org/sfeed-simple-feed-parser.html 
+
