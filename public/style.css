@@ -1,0 +1,25 @@
+body {
+  background: #121212;
+  font-family: sans-serif;
+}
+
+a {
+  color: #eee;
+  text-decoration: none;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+ul li {
+  border: 2px solid #222;
+  padding: 20px;
+  margin: 10px;
+}
+
+ul li span {
+  color: #666;
+  display: block;
+}
